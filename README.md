@@ -13,3 +13,7 @@ exp.Parameters.Add("z", 2);
 
 Console.WriteLine(exp.Evaluate());
 ```
+
+
+
+![](http://visit.parselecom.com/Api/Visit/16/DE4C8A)
